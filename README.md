@@ -13,10 +13,12 @@
 ------
 
 ### 摄影设备：   
-    佳能EOS200DⅡ、三脚架
+    佳能EOS200DⅡ
+    三脚架
     
 ### 剪辑平台：
-    Adobe premiere pro CC2018，Arctime
+    Adobe premiere pro CC2018 #视频剪辑
+    Arctime                   #制作字幕
 
 
 vlog展示：
